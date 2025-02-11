@@ -1,0 +1,71 @@
+---
+title: "OpenACT Module 5"
+author: OpenACT
+date: "2025-02-11"
+subject: "Markdown"
+keywords: [Acceptance and Commitment Training, Acceptance and Commitment Therapy]
+lang: "en"
+...
+
+# Module 5: Identifying What Truly Matters (Values)
+
+Having learned to handle the painful thoughts and feelings that often come with anxiety and depression, we now turn to a more uplifting and guiding aspect of therapy: your **values**. Values are like your heart’s deepest desires for the kind of person you want to be and the kind of life you want to live. They are the *directions* that you want your life to move in, the qualities you want to embody, and the things that really matter to you in the big picture. In this module, we will clarify what’s truly important to you, because that will become a powerful source of motivation and meaning as you continue forward.
+
+## What Are Values (and Why Should I Care)?
+
+A **value** in ACT is not a goal or a specific outcome – it’s more like a compass direction. For example, “being a caring parent” is a value; you can never finish it like a task, it’s something you choose to do moment by moment. In contrast, “take my child to the park this Saturday” is a goal – a specific achievable action that aligns with the value of being a caring parent. Values are ongoing, guiding principles that you can live by **every day**, whereas goals are things you accomplish or check off. Another example: “health” or “physical wellbeing” is a value, while “lose 10 pounds” or “run a marathon” are specific goals under that value. Goals are great, but without clear values behind them, we can achieve things and still feel empty. Values give our efforts a meaningful purpose.
+
+Why do values matter, especially if you’re struggling with anxiety or depression? Because **values give you a reason to face discomfort and move forward**. When you have a compelling *why*, you can handle the *what*. For instance, if you deeply value helping others, it might give you the courage to push through social anxiety to volunteer or support a friend. If you value learning and growth, it can motivate you to get out of bed on a hard day to attend class or work because that aligns with something important to you. Values are like the fuel that energizes all these ACT skills – they remind you *why* you’re practicing acceptance, *why* you’re defusing from negative thoughts: so you can live a life that matters to you, not just avoid pain. Research shows that having a sense of meaning or purpose in life is linked to better mental health and resilience. In a way, values are about *building a life worth living*, even if it’s not free of anxiety or sadness. They provide a focus on what you want to move *toward*, not just what you want to move away from.
+
+Another important aspect: **Your values are your own.** They’re not what your parents, peers, or society necessarily say you “should” care about (though you might share some values with them). This is about what *you* deep down find meaningful. There are no right or wrong values – one person might value adventure and risk-taking, another values safety and stability. One might value creativity, another practicality. What matters is that when you think of a value, it resonates and “lights up” something inside you, even if it also scares you a bit. It’s common in anxiety/depression to lose touch with values because we get so caught up in dealing with day-to-day distress. This module is a chance to reconnect with what makes life worth the effort for you.
+
+## Finding Your Values
+
+Discovering or clarifying your values can be a reflective, even enjoyable process. Think of it as uncovering what brings you fulfillment or pride at the end of the day. We’ll do a guided imagination exercise to help you identify values. This exercise is a bit like mental time travel to help you see what really matters in the grand scheme of your life.
+
+### Exercise: Imagine Your 80th Birthday Celebration
+
+This exercise is adapted from a common values clarification technique. It might feel a little poignant, but it’s a powerful way to cut through the noise and find what matters.
+
+1. **Set the scene:** Close your eyes if you’re comfortable, and imagine you are much older – say **80 years old**. On this day, imagine there is a big celebration for your 80th birthday. Picture a gathering of the people who love and appreciate you – family, friends, maybe colleagues – everyone who is meaningful in your life.
+2. **Who is there and what’s happening:** In your mind’s eye, see the faces of these people as they celebrate you. The atmosphere is warm and positive. Maybe it’s a party, maybe a simple get-together, whatever feels right. You’re healthy enough to enjoy this day, and you see everyone interacting happily.
+3. **Speeches about you:** Now, imagine that one by one, these important people stand up to give a little speech or toast about *you and your life*. They are sharing what they value about you, the impact you’ve had, and what kind of person you are. What do you want to hear them say? Think about your spouse or partner (or close family member) speaking about you – what would make you proud to hear? Perhaps they talk about how loving or supportive you were. Then, a dear friend speaks – what would you love them to highlight about you? Maybe your kindness, your humor, or how adventurous and fun you are. If you have children (or imagine future children), what would you want them to remember about you as a parent or role model? If a coworker or someone from the community is there, what would you like them to say regarding how you contributed or what you stood for?
+4. **Listen to the themes:** Spend a few moments generating these imagined speeches. Don’t worry about the exact words, just focus on the themes and qualities being described. You might hear things like, *“She was always so **caring** – she was there for anyone in need,”* or *“He lived life with such **integrity** and honesty,”* or *“They brought **creativity** to everything they did,”* or *“We always remember her **courage** and willingness to try new things,”* or *“His **humor** and lightheartedness made difficult times easier,”* etc. Let whatever themes that feel important bubble up.
+5. **Reflect and write:** Gently come back to the present. Take a moment to jot down the key qualities or principles that stood out in those imaginary speeches. These are likely reflections of your core values. Try to phrase them as single words or short terms. For example, you might write **Compassion**, **Family**, **Adventure**, **Honesty**, **Art/Creativity**, **Service**, **Personal Growth**, **Faith/Spirituality**, **Justice**, **Humor**, **Independence**, **Love**, **Learning**, **Courage**, etc. There’s no need to have a huge list – even a few words that really resonate with you are great.
+
+Now, look at what you wrote. When you see these words or themes, do they stir up a sense of *“Yes, this is important to me”*? You may even feel a bit emotional – sometimes recognizing a true value can bring tears to your eyes or a swell in your chest, because it’s like touching something very dear to you. That’s a good sign that you’ve hit on a genuine value.
+
+If you felt stuck during the visualization, or you find it hard to imagine what people might say, that’s okay. Another approach is to think directly about times in your life when you felt really satisfied or proud of yourself. What were you doing, and *why* was it meaningful? Those experiences often involve living out a value. Or you can consider the opposite: times you felt regret – maybe that points to a value you neglected. Lastly, you can consider people you admire: what qualities in them do you admire? Often that reflects what you value (e.g., admiring Gandhi’s compassion and courage might indicate you value compassion and courage).
+
+Sometimes it’s helpful to see examples to jog your mind. **Examples of common values** include:
+- **Family & Love:** Nurturing family relationships, being a loving friend or partner.
+- **Helping/Generosity:** Making a difference in others’ lives, helping those in need, being charitable.
+- **Achievement & Growth:** Pursuing goals, learning, improving yourself, being competent and knowledgeable.
+- **Creativity:** Expressing yourself through art, music, writing, or innovative problem-solving.
+- **Adventure:** Seeking excitement, exploring new places, having variety in life.
+- **Security:** Providing stability for yourself and loved ones, financial security, safety.
+- **Health & Wellness:** Caring for your physical and mental well-being, staying active.
+- **Honesty & Integrity:** Being truthful, acting in alignment with your moral principles.
+- **Justice & Fairness:** Standing up for what’s right, equality, helping create a fair community.
+- **Spirituality/Faith:** Connecting with something greater, practicing faith or spiritual principles.
+- **Independence:** Being self-reliant, making your own choices, freedom.
+- **Humor & Joy:** Bringing joy to others, not taking life too seriously, enjoying the moment.
+
+This is not an exhaustive list – just a sampling. Circle or note any of these that jump out as “Yes, that’s me” or add your own that aren’t listed. You might notice that you resonate with multiple values, which is normal. Humans are complex and care about many things. But to make values workable, it helps to identify a handful (maybe 3 to 5) that feel most central to you right now. You can prioritize or rank them if you like, but it’s not necessary.
+
+## Using Your Values as a Compass
+
+Okay, so you have some idea of what matters to you. How does this help? Think of your values as a compass pointing north – they give you direction when you’re deciding how to spend your time and energy. They also give you strength when the journey is tough. For example, if one of your top values is **Compassion**, and you’re feeling depressed, volunteering at an animal shelter or reaching out to check on a friend might be hard to initiate, but doing it likely brings a sense of purpose and lifts your mood a bit because it’s aligned with your values. Or if you value **Adventure**, pushing yourself to sign up for that hiking group despite your anxiety might lead to an experience that makes you feel alive and accomplished. Values can help you **prioritize**: when you’re torn between staying in comfort (but stagnating) versus taking a step that’s scary but meaningful, remembering your values can tip you towards the meaningful action.
+
+It’s also worthwhile to compare how you’re living currently to your values. Often in therapy, people realize there’s a gap. For instance, you might value “family,” but due to depression, you’ve been withdrawing from loved ones. Or you value “honesty,” but anxiety has led you to avoid addressing a conflict directly. Noticing such gaps isn’t meant to make you feel guilty; it’s an opportunity to adjust course. Just as a compass helps a hiker correct their path if they drift east of north, your values can help you gently realign your life choices with what truly matters to you.
+
+The beautiful thing about values is that you can live them in small ways every day. Even if “making a difference in the world” is a core value and you’re not in a place to do grand actions, you can still do small kind acts that express that value (like helping a neighbor, or contributing creatively to something). Every time you act on a value, it’s like strengthening a muscle – you feel more authentic and often more fulfilled. It also creates positive momentum to lift you out of the paralysis that anxiety and depression can cause.
+
+### Key Takeaways from Module 5
+- **Values are your guiding stars:** They represent who you want to be and what you find meaningful in life. Unlike a goal, a value is never “completed” – it’s lived out continuously. For example, you don’t “finish” being a loving friend; you *keep choosing* to be loving whenever possible.
+- **Personal and motivating:** Your values are chosen by you. They can energize you by providing a compelling reason to step out of your comfort zone. When you know you’re acting in service of something you deeply care about, even hard tasks can feel worthwhile.
+- **Not about “shoulds”:** Don’t choose values because you think you “ought to.” Focus on what genuinely matters to you. There is no external grading; the payoff is an internal sense of purpose and alignment with yourself.
+- **Values vs. feelings:** Don’t wait until you “feel good” to start living your values. Often, taking action on values comes *before* the positive feelings, not after. You might not feel motivated or confident at first – that’s okay. Values-based action can gradually lead to a more meaningful and satisfying life, which in turn can improve your emotional state.
+- **Bridge to action:** Knowing your values is powerful, but it’s only the beginning. The next step is to translate those values into concrete actions and habits. In the final module, we’ll focus on **committed action** – setting goals and taking steps guided by your values. This is how you’ll build the life you want, one small step at a time.
+
+Take a moment to congratulate yourself for digging deep and identifying what matters to you. Keep your notes on your values handy – maybe write them on a card or in a note on your phone. They will be your north star as we move into making real-life changes. Whenever you’re ready, let’s proceed to the final module, where we put it all together and start **taking action** towards the life you envision.
