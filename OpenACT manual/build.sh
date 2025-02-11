@@ -12,6 +12,7 @@ for file in *.md; do
     echo "Done processing $file"
 done
 
+
 echo "Converting all files to PDF..."
 
 pandoc metadata.yaml *.md \
@@ -19,7 +20,10 @@ pandoc metadata.yaml *.md \
   --from markdown \
   --template "../eisvogel.tex" \
   --listings \
-  --toc
+  --toc \
+  --pdf-engine=xelatex \
+  -V colorlinks=true
+
 
 echo "Converting all files to Word (.docx)..."
 
