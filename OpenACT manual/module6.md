@@ -1,12 +1,3 @@
----
-title: "OpenACT Module 6"
-author: OpenACT
-date: "2025-02-11"
-subject: "Markdown"
-keywords: [Acceptance and Commitment Training, Acceptance and Commitment Therapy]
-lang: "en"
-...
-
 # Module 6: Taking Meaningful Action (Committed Action)
 
 You’ve clarified what’s important to you – now it’s time to start **living it**. In this final module, we focus on turning values into reality through **committed action**. “Committed” means you pledge to carry out these actions guided by your values, even when it’s hard. This is where the rubber meets the road. Up until now, we’ve largely worked on your inner world (thoughts, feelings, perspective). Now we’re going to work on the *outer* world – your behaviors and life choices – which is ultimately how you build a fulfilling life.

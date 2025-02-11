@@ -1,12 +1,3 @@
----
-title: "OpenACT Module 5"
-author: OpenACT
-date: "2025-02-11"
-subject: "Markdown"
-keywords: [Acceptance and Commitment Training, Acceptance and Commitment Therapy]
-lang: "en"
-...
-
 # Module 5: Identifying What Truly Matters (Values)
 
 Having learned to handle the painful thoughts and feelings that often come with anxiety and depression, we now turn to a more uplifting and guiding aspect of therapy: your **values**. Values are like your heart’s deepest desires for the kind of person you want to be and the kind of life you want to live. They are the *directions* that you want your life to move in, the qualities you want to embody, and the things that really matter to you in the big picture. In this module, we will clarify what’s truly important to you, because that will become a powerful source of motivation and meaning as you continue forward.

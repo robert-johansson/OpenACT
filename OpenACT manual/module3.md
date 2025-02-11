@@ -1,12 +1,3 @@
----
-title: "OpenACT Module 3"
-author: OpenACT
-date: "2025-02-11"
-subject: "Markdown"
-keywords: [Acceptance and Commitment Training, Acceptance and Commitment Therapy]
-lang: "en"
-...
-
 # Module 3: Opening Up to Difficult Emotions (Acceptance)
 
 By now, you’ve begun to change how you deal with thoughts by practicing mindfulness and defusion. But thoughts are only part of the story. What about the **raw feelings** – the anxiety in your chest, the heaviness of sadness, the anger or guilt that can well up inside? In this module, we learn how to handle painful emotions in a healthier way. The ACT approach encourages us not just to tolerate these feelings, but to *open up* and make space for them, so they no longer control our lives.

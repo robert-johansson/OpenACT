@@ -1,12 +1,3 @@
----
-title: "OpenACT Module 2"
-author: OpenACT
-date: "2025-02-11"
-subject: "Markdown"
-keywords: [Acceptance and Commitment Training, Acceptance and Commitment Therapy]
-lang: "en"
-...
-
 # Module 2: Stepping Back from Your Thoughts (Cognitive Defusion)
 
 Now that you have started practicing being present, you’ve probably noticed how busy and negative the mind can be. In this module, we focus on **thoughts** – especially those unhelpful, critical, or anxious thoughts that often accompany depression and anxiety. Our goal is to change how you relate to these thoughts, so they don’t push you around as much.

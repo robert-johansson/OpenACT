@@ -1,12 +1,3 @@
----
-title: "OpenACT Module 1"
-author: OpenACT
-date: "2025-02-11"
-subject: "Markdown"
-keywords: [Acceptance and Commitment Training, Acceptance and Commitment Therapy]
-lang: "en"
-...
-
 # Module 1: Being Present – Focusing on the Here and Now
 
 **Welcome!** In this first module, we will set the stage for your journey by introducing a new way to approach anxiety and depression. If you’re reading this, you or someone you care about may be struggling with difficult thoughts and feelings. The good news is that you’re not alone – many people experience anxiety, depression, or other emotional challenges at some point in life. More importantly, *there are practical skills you can learn* to handle these experiences differently. Acceptance and Commitment Therapy (ACT) offers tools to help you stop fighting your feelings and start building a life that matters to you.

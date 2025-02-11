@@ -1,12 +1,3 @@
----
-title: "OpenACT Module 4"
-author: OpenACT
-date: "2025-02-11"
-subject: "Markdown"
-keywords: [Acceptance and Commitment Training, Acceptance and Commitment Therapy]
-lang: "en"
-...
-
 # Module 4: Discovering the Observing Self (Self-as-Context)
 
 Up to now, we’ve focused on *what* you are experiencing internally – your thoughts and feelings – and ways to handle them differently. In this module, we shift focus to *who* is experiencing those things. There is a part of you that notices your thoughts and feelings, but is distinct from them. In ACT, this aspect is sometimes called the **observing self** or **self-as-context**. It’s a difficult concept at first, but essentially: **you are not the content of your thoughts and feelings; you are the container that holds them**. Another way to say it is *you are the sky, not the passing weather*. If you’ve ever had a moment of mindful clarity – maybe during the exercises we’ve done – where you could observe your thought or emotion and realize “Hey, that’s not all of me,” then you’ve already touched on this idea.
