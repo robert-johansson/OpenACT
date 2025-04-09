@@ -5,6 +5,7 @@
 ## The Problem with Fighting Feelings
 
 It’s natural to want to escape pain. When you feel anxious or depressed, you might try many ways to *“feel better”* or get rid of those feelings. Common strategies include:
+
 - Avoiding situations that trigger anxiety (for example, skipping social events or not opening mail when you feel overwhelmed).
 - Distracting yourself or numbing out (binge-watching shows, overeating, using alcohol or other substances to escape feelings).
 - Battling your own thoughts – maybe you tell yourself *“Stop worrying”* or try to *“think positive”* to chase away negative thoughts.

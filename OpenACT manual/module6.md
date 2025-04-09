@@ -27,6 +27,7 @@ Let’s create a simple action plan step by step. Take out a notebook or a docum
 **3. Identify Potential Obstacles:** Ask yourself: “What might prevent me from doing this action?” List both external and internal obstacles. External might be things like “It might rain during my jogging time” or “What if my friend is busy when I call?” Internal obstacles might be “I’ll probably feel too tired” or “I’m anxious I’ll be awkward on the phone.” It’s important to anticipate these, because then you can plan for them.
 
 **4. Plan Solutions for Each Obstacle:** Next to each obstacle you listed, write a possible solution or workaround. External obstacle examples:  
+
 - If it rains, I will do an indoor workout video for 20 minutes instead.  
 - If my friend is busy, I will send a text suggesting a few alternate times to talk, so we can reschedule.  
 Internal obstacle examples:  
@@ -46,6 +47,7 @@ To illustrate, let’s walk through a quick example. **Value:** Creativity. **Ch
 Once you achieve one small goal, it’s time to set the next one. Committed action is an ongoing practice. Over time, these small steps add up to significant life changes. There will be victories and setbacks. Expect that. The key is to **stay in touch with your values** and keep resetting your compass toward them, even if you wander off course now and then (which we all do).
 
 A few tips for staying on track:
+
 - **Regularly revisit your values:** Maybe each week, reflect on your core values and ask “What’s one thing I can do in the coming days that would express this value?” This keeps your actions aligned with what matters.
 - **Use your ACT skills when facing challenges:** All the previous modules come into play here. Anxiety before a new action? Use defusion to unhook from the anxious thoughts (“I can’t do this”). Fear of failure? Use acceptance to allow that fear to be present without quitting. Feeling lazy or unmotivated? Use mindfulness to focus on the present action one step at a time, rather than getting lost in thoughts about it. Remember self-as-context – you are not your fear or fatigue, you are the one carrying them *and* you can still move forward.
 - **Reward and celebrate successes:** Even small wins deserve acknowledgment. Did you accomplish your action for the week? Give yourself credit! Perhaps treat yourself to something enjoyable (preferably something aligned with your values, like relaxing with a good book if you value learning, or taking a bath for self-care). Positive reinforcement helps solidify new habits.
@@ -66,6 +68,7 @@ Congratulations on completing this self-help program based on Acceptance and Com
 Life will inevitably have ups and downs. Having anxiety or depression doesn’t completely vanish overnight. But you now have a toolkit to respond differently. Instead of getting tangled in a web of suffering, you can notice “Ah, my mind is telling that old story” or “I feel that wave of sadness” and respond with mindfulness, acceptance, and action, rather than avoidance or struggle. Over time, those waves and stories lose their hold, and you’ll find yourself more focused on living your life than fighting your mind.
 
 As you move forward, keep in mind:
+
 - **Be patient and persistent:** Change takes time. You might see some quick improvements, or it might be gradual. Both are okay. Stick with the practices, and don’t be discouraged by setbacks.
 - **Seek support when needed:** You don’t have to do this all alone. Share your journey with supportive friends or family. If you find that you’re very stuck or things feel overwhelming, consider reaching out to a therapist for additional guidance – ACT is something many professionals can help you with. There’s no shame in getting help.
 - **Adapt ACT to your life:** Ultimately, these techniques are tools to serve you. Feel free to modify exercises to fit your style, mix and match what you need in the moment. ACT is a flexible model; it’s all about what helps you be the person you want to be.

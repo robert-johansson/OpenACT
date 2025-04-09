@@ -29,6 +29,7 @@ Now, look at what you wrote. When you see these words or themes, do they stir up
 If you felt stuck during the visualization, or you find it hard to imagine what people might say, that’s okay. Another approach is to think directly about times in your life when you felt really satisfied or proud of yourself. What were you doing, and *why* was it meaningful? Those experiences often involve living out a value. Or you can consider the opposite: times you felt regret – maybe that points to a value you neglected. Lastly, you can consider people you admire: what qualities in them do you admire? Often that reflects what you value (e.g., admiring Gandhi’s compassion and courage might indicate you value compassion and courage).
 
 Sometimes it’s helpful to see examples to jog your mind. **Examples of common values** include:
+
 - **Family & Love:** Nurturing family relationships, being a loving friend or partner.
 - **Helping/Generosity:** Making a difference in others’ lives, helping those in need, being charitable.
 - **Achievement & Growth:** Pursuing goals, learning, improving yourself, being competent and knowledgeable.
